@@ -53,4 +53,5 @@ fn main() -> Result<(),Box<dyn Error>>{
     let x: i64 = pretend_user_input.parse()?;
     println!("output={:?}", PositiveNonzeroInteger::new(x)?);
     Ok(())
+    //This is something that is just to test whether this thing actually works.
 }
