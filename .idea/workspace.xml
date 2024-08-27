@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ca5355e4-cd3f-44a1-bade-7e5d4a9d6cee" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/rustlings.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cargo.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/00_intro/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/00_intro/intro1.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/00_intro/intro2.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/01_variables/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/01_variables/variables1.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/01_variables/variables2.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/01_variables/variables3.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/01_variables/variables4.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/01_variables/variables5.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/01_variables/variables6.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/02_functions/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/02_functions/functions1.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/02_functions/functions2.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/02_functions/functions3.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/02_functions/functions4.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/02_functions/functions5.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/03_if/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/03_if/if1.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/03_if/if2.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/03_if/if3.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/04_primitive_types/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/04_primitive_types/primitive_types1.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/04_primitive_types/primitive_types2.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/04_primitive_types/primitive_types3.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/04_primitive_types/primitive_types4.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/04_primitive_types/primitive_types5.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/04_primitive_types/primitive_types6.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/05_vecs/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/05_vecs/vecs1.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/05_vecs/vecs2.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/06_move_semantics/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/06_move_semantics/move_semantics1.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/06_move_semantics/move_semantics2.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/06_move_semantics/move_semantics3.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/06_move_semantics/move_semantics4.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/06_move_semantics/move_semantics5.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/07_structs/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/07_structs/structs1.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/07_structs/structs2.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/07_structs/structs3.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/08_enums/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/08_enums/enums1.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/08_enums/enums2.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/08_enums/enums3.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/09_strings/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/09_strings/strings1.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/09_strings/strings2.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/09_strings/strings3.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/09_strings/strings4.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/10_modules/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/10_modules/modules1.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/10_modules/modules2.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/10_modules/modules3.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/11_hashmaps/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/11_hashmaps/hashmaps1.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/11_hashmaps/hashmaps2.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/11_hashmaps/hashmaps3.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/12_options/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/12_options/options1.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/12_options/options2.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/12_options/options3.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/13_error_handling/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/13_error_handling/errors1.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/13_error_handling/errors2.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/13_error_handling/errors3.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/13_error_handling/errors4.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/13_error_handling/errors5.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/13_error_handling/errors6.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/14_generics/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/14_generics/generics1.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/14_generics/generics2.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/15_traits/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/15_traits/traits1.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/15_traits/traits2.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/15_traits/traits3.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/15_traits/traits4.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/15_traits/traits5.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/16_lifetimes/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/16_lifetimes/lifetimes1.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/16_lifetimes/lifetimes2.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/16_lifetimes/lifetimes3.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/17_tests/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/17_tests/tests1.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/17_tests/tests2.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/17_tests/tests3.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/18_iterators/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/18_iterators/iterators1.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/18_iterators/iterators2.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/18_iterators/iterators3.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/18_iterators/iterators4.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/18_iterators/iterators5.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/19_smart_pointers/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/19_smart_pointers/arc1.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/19_smart_pointers/box1.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/19_smart_pointers/cow1.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/19_smart_pointers/rc1.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/20_threads/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/20_threads/threads1.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/20_threads/threads2.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/20_threads/threads3.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/21_macros/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/21_macros/macros1.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/21_macros/macros2.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/21_macros/macros3.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/21_macros/macros4.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/22_clippy/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/22_clippy/clippy1.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/22_clippy/clippy2.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/22_clippy/clippy3.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/23_conversions/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/23_conversions/as_ref_mut.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/23_conversions/from_into.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/23_conversions/from_str.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/23_conversions/try_from_into.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/23_conversions/using_as.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/quizzes/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/quizzes/quiz1.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/quizzes/quiz2.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/quizzes/quiz3.rs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="00ing1ty" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2k6jUP3iJi3RTSNEMT8qEiVcg0U" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.rust.reset.selective.auto.import": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "org.rust.cargo.project.model.PROJECT_DISCOVERY": "true",
+    "org.rust.cargo.project.model.impl.CargoExternalSystemProjectAware.subscribe.first.balloon": "",
+    "org.rust.first.attach.projects": "true",
+    "settings.editor.selected.configurable": "preferences.keymap"
+  }
+}]]></component>
+  <component name="RunManager" selected="Cargo.Run arc1">
+    <configuration name="Run arc1" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
+      <option name="command" value="run --package exercises --bin arc1" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run arc1" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
+      <option name="command" value="run --package exercises --bin arc1" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test exercises" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
+      <option name="command" value="test --workspace" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test exercises" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
+      <option name="command" value="test --workspace" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$PROJECT_DIR$/../.cargo/bin" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca5355e4-cd3f-44a1-bade-7e5d4a9d6cee" name="Changes" comment="" />
+      <created>1722610937424</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722610937424</updated>
+      <workItem from="1722610939124" duration="160000" />
+      <workItem from="1723312103042" duration="229000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
